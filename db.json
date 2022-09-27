@@ -1,18 +1,103 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "id": 3,
+      "firstName": "lele",
+      "lastName": "jean",
+      "email": "jean@gmail.com",
+      "mobile": "456",
+      "salary": "10000"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 4,
+      "firstName": "flo",
+      "lastName": "lele",
+      "email": "flo@gmail.com",
+      "mobile": "789456",
+      "salary": "40000"
+    },
+    {
+      "id": 5,
+      "firstName": "john",
+      "lastName": "king",
+      "email": "ju@gmail.com",
+      "mobile": "7894562",
+      "salary": "20000"
+    },
+    {
+      "id": 6,
+      "firstName": "mike",
+      "lastName": "simo",
+      "email": "mk@gmail.com",
+      "mobile": "789456",
+      "salary": "80000"
+    },
+    {
+      "id": 7,
+      "firstName": "pelba",
+      "lastName": "arielle",
+      "email": "pb@gmail.com",
+      "mobile": "6547896",
+      "salary": "80000"
+    },
+    {
+      "id": 8,
+      "firstName": "austine",
+      "lastName": "noella",
+      "email": "a@gmail.com",
+      "mobile": "11233",
+      "salary": "120044"
+    },
+    {
+      "id": 9,
+      "firstName": "gigi",
+      "lastName": "snake",
+      "email": "gh@d.com",
+      "mobile": "12344",
+      "salary": "1000"
+    },
+    {
+      "id": 10,
+      "firstName": "lele",
+      "lastName": "vaneck",
+      "email": "lele@gmail.com",
+      "mobile": "1244",
+      "salary": "1000"
+    },
+    {
+      "id": 11,
+      "firstName": "Lele",
+      "lastName": "Tyrold",
+      "email": "a@dd.com",
+      "mobile": "123",
+      "salary": "4000"
+    },
+    {
+      "id": 12,
+      "firstName": "Lele",
+      "lastName": "Tyrold",
+      "email": "a@gmail.com",
+      "mobile": "123",
+      "salary": "4000"
+    },
+    {
+      "id": 13,
+      "firstName": "Lele",
+      "lastName": "Tyrold",
+      "email": "a@dd.com",
+      "mobile": "123",
+      "salary": "40003"
+    },
+    {
+      "id": 14,
+      "firstName": "jacky",
+      "lastName": "bio",
+      "email": "bio@gmail.com",
+      "mobile": "789456",
+      "salary": "15963"
     }
   ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
